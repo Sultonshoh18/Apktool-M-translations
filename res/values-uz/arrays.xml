@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string-array name="smali_help_names">
-		<item>Ro\'yxatga olmoq</item>
+		<item>Ro\'yxatga olish</item>
 		<item>Tom ma\'noda qiymat</item>
 		<item>O\'qituvchi ma\'lumotlar turlari</item>
 	</string-array>
