@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_name">Apktool M</string>
-	<string name="click_once_more">Tashqariga chiqish uchun yana bosing!</string>
+	<string name="click_once_more">Ilovadan chiqish uchun yana bosing!</string>
 	<string name="click_once_more2">Yopish uchun yana bosing</string>
 	<string name="all_files_saved">Barcha fayllar saqlanadi!</string>
 	<string name="storage_error">Saqlash uchun ariza bering!</string>
